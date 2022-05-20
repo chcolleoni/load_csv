@@ -1,0 +1,31 @@
+server:
+  port: 8080
+  error:
+    include-message:
+spring:
+  application:
+    name: ms-load-csv
+  batch:
+    initialize-schema: ALWAYS
+    job:
+      enabled: false
+  profiles.active: dsv
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        proc.param_null_passing: true
+        jdbc.time_zone: UTC
+    database-platform: org.hibernate.dialect.Oracle12cDialect
+
+---
+spring:
+  profiles: dsv # profile for test enviroment locally in Windows
+  datasource:
+    url: jdbc:oracle:thin:@${ORA_DBNAME:root}_high?TNS_ADMIN=C:/projects/Wallet_${ORA_DBNAME:root} # path wallet for access autonomous database
+    username: ${ORA_USER:root}
+    password: ${ORA_PWD:root}

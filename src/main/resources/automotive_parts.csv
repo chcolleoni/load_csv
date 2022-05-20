@@ -1,0 +1,1170 @@
+Large_Classification;Middle_ Classification;Small_Classification;Detail_Classification
+Processing Technologies;Surface Treatment/Heat Treatment;Surface Treatment (Others);
+Processing Technologies;Surface Treatment/Heat Treatment;Heat Treatment;
+Processing Technologies;Surface Treatment/Heat Treatment;Plating;
+Processing Technologies;Surface Treatment/Heat Treatment;Painting;
+Processing Technologies;Other Processing;;
+Processing Technologies;Rubber Parts;Extrusion Rubber Molding Parts;
+Processing Technologies;Rubber Parts;Injection Rubber Molding Parts;
+Processing Technologies;Rubber Parts;Rubber Metal Parts;
+Processing Technologies;Jig & Tools;Retention Tool;Tool Holder
+Processing Technologies;Jig & Tools;Retention Tool;Collet
+Processing Technologies;Jig & Tools;Retention Tool;Arbor
+Processing Technologies;Jig & Tools;Retention Tool;Boring Bar
+Processing Technologies;Jig & Tools;Retention Tool;Turret
+Processing Technologies;Jig & Tools;Retention Tool;Chip Holder
+Processing Technologies;Jig & Tools;Retention Tool;Ware Fit Holder
+Processing Technologies;Jig & Tools;Cutting Tool;Drilling Hole Finishing Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Gear Cutting Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Dresser
+Processing Technologies;Jig & Tools;Cutting Tool;Various Drilling Tolls
+Processing Technologies;Jig & Tools;Cutting Tool;Rolling Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Grinding Whetstone
+Processing Technologies;Jig & Tools;Cutting Tool;Throw-away Chip
+Processing Technologies;Jig & Tools;Cutting Tool;Turning Tools
+Processing Technologies;Jig & Tools;Cutting Tool;Broach
+Processing Technologies;Jig & Tools;Cutting Tool;Other Cutting Process Tools
+Processing Technologies;Jig & Tools;Cutting Tool;CBN Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Milling Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Threading Tool
+Processing Technologies;Jig & Tools;Cutting Tool;Diamond Tool (Incl. DLC)
+Processing Technologies;Jig & Tools;Other Jig & Tools;Other Jig & Tools/Instruments/Equipments
+Processing Technologies;Jig & Tools;Welding Jig & Tools;Work Locater (Part Positioning)
+Processing Technologies;Jig & Tools;Chuck;Magnetic Chuck
+Processing Technologies;Jig & Tools;Chuck;Tailstock
+Processing Technologies;Jig & Tools;Chuck;Collet
+Processing Technologies;Jig & Tools;Chuck;Chuck
+Processing Technologies;Jig & Tools;Clamper;Angle Plate
+Processing Technologies;Jig & Tools;Clamper;Tail Control
+Processing Technologies;Jig & Tools;Clamper;Base
+Processing Technologies;Jig & Tools;Clamper;Work Locater (Part Positioning)
+Processing Technologies;Jig & Tools;Clamper;Mandrel
+Processing Technologies;Jig & Tools;Clamper;Clamp
+Processing Technologies;Plastic Molded Parts;Extrusion Plastic Molding Parts;
+Processing Technologies;Plastic Molded Parts;Blow Molded Parts;
+Processing Technologies;Plastic Molded Parts;Form Molded Parts;
+Processing Technologies;Plastic Molded Parts;Plastic Injection Molded Parts;
+Processing Technologies;Plastic Molded Parts;Resin Processing Parts (Others);
+Processing Technologies;Die;Casting;Lost-Wax Mold
+Processing Technologies;Die;Casting;Shell Mold
+Processing Technologies;Die;Casting;Sand Mold
+Processing Technologies;Die;Plastic Processing Mold;Rolling Process
+Processing Technologies;Die;Plastic Processing Mold;Hydraulic forming
+Processing Technologies;Die;Plastic Processing Mold;Swaging
+Processing Technologies;Die;Plastic Processing Mold;Spinning
+Processing Technologies;Die;Plastic Processing Mold;Tube Forming
+Processing Technologies;Die;Plastic Processing Mold;Rolling
+Processing Technologies;Die;Stamping Die;Components for Metal Molding
+Processing Technologies;Die;Stamping Die;Metal Mold Peripheral Equipment/Device
+Processing Technologies;Die;Stamping Die;Components for Die Casting
+Processing Technologies;Die;Stamping Die;Finishing
+Processing Technologies;Die;Stamping Die;Components for Stamping Die
+Processing Technologies;Die;Stamping Die;Metal Molding Surface Treatment
+Processing Technologies;Die;Stamping Die;Casting & Forging Die/Tools
+Processing Technologies;Die;Forging Die;Cold Forging
+Processing Technologies;Die;Forging Die;Warm Forging
+Processing Technologies;Die;Forging Die;Hot Forging
+Processing Technologies;Die;Forging Die;Extrusion
+Processing Technologies;Die;Forging Die;Upsetting
+Processing Technologies;Die;Plastic Mold;Injection Molding
+Processing Technologies;Die;Plastic Mold;Vacuum Forming
+Processing Technologies;Die;Plastic Mold;Two-Color Molding
+Processing Technologies;Die;Plastic Mold;Blow Molding
+Processing Technologies;Die;Plastic Mold;Form Molding
+Processing Technologies;Die;Plastic Mold;Rubber Molding
+Processing Technologies;Die;Die Casting Mold;PDC
+Processing Technologies;Die;Die Casting Mold;Zinc DC
+Processing Technologies;Die;Die Casting Mold;Magnesium DC
+Processing Technologies;Die;Die Casting Mold;LPDC
+Processing Technologies;Die;Metal Mold Components;Stripper Plate
+Processing Technologies;Die;Metal Mold Components;Die
+Processing Technologies;Die;Metal Mold Components;Ejector
+Processing Technologies;Die;Metal Mold Components;Die Plate
+Processing Technologies;Die;Metal Mold Components;Punch
+Processing Technologies;Die;Metal Mold Components;Feeder
+Processing Technologies;Die;Metal Mold Components;Die Set
+Processing Technologies;Die;Metal Mold Components;Guide Bushing
+Processing Technologies;Die;Metal Mold Components;Gripper
+Processing Technologies;Die;Metal Mold Components;Metal Mold Base
+Processing Technologies;Die;Metal Mold Components;Guide Pin
+Processing Technologies;Die;Metal Mold Components;Cushion Spring
+Processing Technologies;Metal Forming Process;Stamping Parts;Fine Blanking Parts
+Processing Technologies;Metal Forming Process;Stamping Parts;Tailored Blanking Parts
+Processing Technologies;Metal Forming Process;Die Cast Parts;Magnesium Die Cast Parts
+Processing Technologies;Metal Forming Process;Die Cast Parts;Aluminuium Die Cast Parts
+Processing Technologies;Metal Forming Process;Metal Forming Process (Others);
+Processing Technologies;Metal Forming Process;Casting Parts;Aluminum Casting Parts
+Processing Technologies;Metal Forming Process;Casting Parts;Cast Iron Parts
+Processing Technologies;Metal Forming Process;Aluminum Extrusion Forming Parts;
+Processing Technologies;Metal Forming Process;Machining Parts;Aluminum Machining
+Processing Technologies;Metal Forming Process;Sintered Parts;
+Processing Technologies;Metal Forming Process;Hydraulic Forming Parts;
+Processing Technologies;Metal Forming Process;Forged Parts;Hot Forged Parts
+Processing Technologies;Metal Forming Process;Forged Parts;Cold Forged Parts
+Processing Technologies;Metal Forming Process;Forged Parts;Warm Forged Parts
+Processing Technologies;Assembly/Welding;Welding;
+Processing Technologies;Assembly/Welding;Assembly;
+Components;Suspension / Steering / Wheel & Tire;Suspension;Transverse Link
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Strut
+Components;Suspension / Steering / Wheel & Tire;Suspension;Spring Seat
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Mount Rubber
+Components;Suspension / Steering / Wheel & Tire;Suspension;Lateral Rod
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Rod
+Components;Suspension / Steering / Wheel & Tire;Suspension;Coil Spring
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Ball Joint
+Components;Suspension / Steering / Wheel & Tire;Suspension;Control Arm
+Components;Suspension / Steering / Wheel & Tire;Suspension;Knuckle Arm
+Components;Suspension / Steering / Wheel & Tire;Suspension;Leaf Spring
+Components;Suspension / Steering / Wheel & Tire;Suspension;Stabilizer
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Parts
+Components;Suspension / Steering / Wheel & Tire;Suspension;Tension Rod
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Cross Member
+Components;Suspension / Steering / Wheel & Tire;Suspension;Torsion Bar
+Components;Suspension / Steering / Wheel & Tire;Suspension;Suspension Mount Bracket
+Components;Suspension / Steering / Wheel & Tire;Shock Absorber;Shock Absorber
+Components;Suspension / Steering / Wheel & Tire;Shock Absorber;Shock Absorber Parts
+Components;Suspension / Steering / Wheel & Tire;Shock Absorber;Electric Shock Absorber
+Components;Suspension / Steering / Wheel & Tire;Shock Absorber;Air Shock Absorber
+Components;Suspension / Steering / Wheel & Tire;Shock Absorber;Shock Absorber Module
+Components;Suspension / Steering / Wheel & Tire;Steering;Electric Power Steering
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Gear
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Shaft
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Mount
+Components;Suspension / Steering / Wheel & Tire;Steering;Power Steering
+Components;Suspension / Steering / Wheel & Tire;Steering;4WS
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Column Module
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Lock
+Components;Suspension / Steering / Wheel & Tire;Steering;Tilt Steering
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Column
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Hose
+Components;Suspension / Steering / Wheel & Tire;Steering;Energy Absorbing Steering
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Linkage
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Joint
+Components;Suspension / Steering / Wheel & Tire;Steering;Steering Parts
+Components;Suspension / Steering / Wheel & Tire;Suspension Control;Suspension ECU
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Front Chassis Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Front Suspension Corner Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Chassis Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Front Suspension Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Suspension Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Rear Suspension Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Rear Chassis Module
+Components;Suspension / Steering / Wheel & Tire;Chassis Module;Front Suspension Center Module
+Components;Suspension / Steering / Wheel & Tire;Electric Suspension;
+Components;Suspension / Steering / Wheel & Tire;Tire;Tire Cord
+Components;Suspension / Steering / Wheel & Tire;Tire;Tire Valve
+Components;Suspension / Steering / Wheel & Tire;Tire;Tire Parts
+Components;Suspension / Steering / Wheel & Tire;Air Suspension;
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;Wheel Nut
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;Alloy Wheel
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;Steel Wheel
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;Road Wheel Parts
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;Road Wheel
+Components;Suspension / Steering / Wheel & Tire;Road Wheel;King Pin
+Components;Climate Control;Heater;Heater Solenoid Valve
+Components;Climate Control;Heater;Heater Parts
+Components;Climate Control;Heater;Heater Core
+Components;Climate Control;Heater;Heater Hose
+Components;Climate Control;Heater;Defroster
+Components;Climate Control;Heater;Heater Control Unit
+Components;Climate Control;Air Conditioner;Air Conditioner Condenser
+Components;Climate Control;Air Conditioner;Air Conditioner Receiver
+Components;Climate Control;Air Conditioner;A/C Parts
+Components;Climate Control;Air Conditioner;Air Conditioner Compressor
+Components;Climate Control;Air Conditioner;Expansion Valve
+Components;Climate Control;Air Conditioner;Air Conditioner ECU
+Components;Climate Control;Air Conditioner;Air Conditioner Clutch
+Components;Climate Control;Air Conditioner;Air Conditioner Hose
+Components;Climate Control;Air Conditioner;Air Conditioner Evaporator
+Components;Climate Control;Air Conditioner;Refrigerant Tank
+Components;Climate Control;HVAC Module;
+Components;Climate Control;Ventilator;Ventilator Parts
+Components;Climate Control;Ventilator;Blower
+Components;Climate Control;Preheater;
+Components;Climate Control;Auxiliary Heater;
+Components;Climate Control;Other Climate Control Parts;Refrigerator
+Components;Climate Control;Other Climate Control Parts;Electric Air Purifier
+Components;Climate Control;Other Climate Control Parts;Cabin Filter
+Components;Climate Control;Other Climate Control Parts;Air Duct
+Components;Electrification Components;Electric Drive Train System;Electric Drivetrain System Components
+Components;Electrification Components;Electric Drive Train System;Generators for EV
+Components;Electrification Components;Electric Drive Train System;Drive motors (induction motors/permanent magnet synchronous motors)
+Components;Electrification Components;Fuel cell system;Fuel cell system parts
+Components;Electrification Components;Fuel cell system;Hydrogen tank
+Components;Electrification Components;Fuel cell system;Fuel cell
+Components;Electrification Components;Fuel cell system;Fuel cell stack
+Components;Electrification Components;Electrification Components (Others);
+Components;Electrification Components;Battery/Capacitor;Nickel metal hydride battery
+Components;Electrification Components;Battery/Capacitor;Battery Management System (BMS)
+Components;Electrification Components;Battery/Capacitor;Battery/Capacitor parts
+Components;Electrification Components;Battery/Capacitor;Battery case
+Components;Electrification Components;Battery/Capacitor;Solar panel
+Components;Electrification Components;Battery/Capacitor;Various battery
+Components;Electrification Components;Battery/Capacitor;Battery charger
+Components;Electrification Components;Battery/Capacitor;Lithium-ion battery
+Components;Electrification Components;Battery/Capacitor;Capacitor
+Components;Electrification Components;Power Control Unit (PCU);Inverter
+Components;Electrification Components;Power Control Unit (PCU);Power Control Unit (PCU) Components
+Components;Electrification Components;Power Control Unit (PCU);Power ECU
+Components;Electrification Components;Power Control Unit (PCU);DC-DC converters
+Components;Drive Train;CVT;CVT Parts
+Components;Drive Train;CVT;CVT ECU
+Components;Drive Train;CVT;CVT Belt
+Components;Drive Train;Power Take Off;
+Components;Drive Train;Automatic Transmission;Torque Converter
+Components;Drive Train;Automatic Transmission;Automatic Transmission Oil Pump
+Components;Drive Train;Automatic Transmission;Automatic Control Parts
+Components;Drive Train;Automatic Transmission;Automatic Transmission Shift Lever
+Components;Drive Train;Automatic Transmission;Automatic Transmission Clutch
+Components;Drive Train;Automatic Transmission;Automatic Transmission Shift Lock Mechanism
+Components;Drive Train;Automatic Transmission;Planetary Gear
+Components;Drive Train;Automatic Transmission;Automatic Transmission Solenoid
+Components;Drive Train;Automatic Transmission;Lock Up Mechanism
+Components;Drive Train;Automatic Transmission;Automatic Transmission Valve
+Components;Drive Train;Automatic Transmission;Automatic Transmission Parts
+Components;Drive Train;4WD Transfer;4WD Transfer Case
+Components;Drive Train;4WD Transfer;4WD Parts
+Components;Drive Train;4WD Transfer;4WD Transfer Gear
+Components;Drive Train;Transmission;Shift Lever
+Components;Drive Train;Transmission;Transmission Gear
+Components;Drive Train;Transmission;Sleeve
+Components;Drive Train;Transmission;Transmission Shaft
+Components;Drive Train;Transmission;Synchronizer Ring
+Components;Drive Train;Transmission;Transmission Case
+Components;Drive Train;Transmission;Synchronizer Hub
+Components;Drive Train;Transmission;Transmission Parts
+Components;Drive Train;Transmission;Shift Fork
+Components;Drive Train;Transmission;Transmission Rear Cover
+Components;Drive Train;Transmission;Transmission Drive Chain
+Components;Drive Train;LSD;Torque Sensing LSDs
+Components;Drive Train;LSD;Viscous LSD
+Components;Drive Train;LSD;Multiple LSD
+Components;Drive Train;Clutch;Clutch Cover Complete
+Components;Drive Train;Clutch;Clutch Parts
+Components;Drive Train;Clutch;Clutch Master Cylinder/Pump
+Components;Drive Train;Clutch;Clutch Disc
+Components;Drive Train;Differential;Differential Parts
+Components;Drive Train;Differential;Diff Pinion Shaft
+Components;Drive Train;Differential;Differential Gear
+Components;Drive Train;Differential;Differential Case
+Components;Drive Train;Drivetrain;
+Components;Interior;Instrument Panel ASSY;Instrument Frame
+Components;Interior;Instrument Panel ASSY;Console Box
+Components;Interior;Instrument Panel ASSY;Ash Tray
+Components;Interior;Instrument Panel ASSY;Instrument Panel
+Components;Interior;Instrument Panel ASSY;Head Up Display
+Components;Interior;Instrument Panel ASSY;Clock
+Components;Interior;Instrument Panel ASSY;Instrument Meter
+Components;Interior;Instrument Panel ASSY;Package Tray
+Components;Interior;Instrument Panel ASSY;Instrument Panel Parts
+Components;Interior;Instrument Panel ASSY;Cross Car Beam
+Components;Interior;Instrument Panel ASSY;Glove Box
+Components;Interior;Instrument Panel ASSY;Cigarette Lighter
+Components;Interior;Seat Belt;Seat Belt Webbing
+Components;Interior;Seat Belt;Seat Belt Buckle
+Components;Interior;Seat Belt;Seat Belt Parts
+Components;Interior;Seat Belt;Seat Belt Retractor
+Components;Interior;Seat Belt;Automatic Seat Belt
+Components;Interior;Seat Belt;Seat Belt Adjustor
+Components;Interior;Cockpit Module;
+Components;Interior;Seat;Headrest
+Components;Interior;Seat;Seat Metal Parts
+Components;Interior;Seat;Seat Fabric
+Components;Interior;Seat;Seat Plastic Parts
+Components;Interior;Seat;Seat Cushion/Seat Back
+Components;Interior;Seat;Seat Adjustor
+Components;Interior;Seat;Seat Frame
+Components;Interior;Seat;Seat Parts
+Components;Interior;Steering Wheel;Armature
+Components;Interior;Steering Wheel;Steering Wheel Parts
+Components;Interior;Instrument Switch;Wiper Switch
+Components;Interior;Instrument Switch;Fog Lamp Switch
+Components;Interior;Instrument Switch;Power Seat Switch
+Components;Interior;Instrument Switch;Push Lock Switch
+Components;Interior;Instrument Switch;Turn Signal Switch
+Components;Interior;Instrument Switch;Rear Defogger Switch
+Components;Interior;Instrument Switch;Door Arm Rest Switch
+Components;Interior;Instrument Switch;Steering Switch
+Components;Interior;Instrument Switch;Lamp Switch
+Components;Interior;Instrument Switch;Hazard Switch
+Components;Interior;Instrument Switch;Power Window Switch
+Components;Interior;Instrument Switch;Auto Cruise Control Switch
+Components;Interior;Instrument Switch;Instrument Switch
+Components;Interior;Instrument Switch;Combination Switch
+Components;Interior;Instrument Switch;Washer Switch
+Components;Interior;Instrument Switch;Mirror Control Switch
+Components;Interior;Instrument Switch;Sunroof Switch
+Components;Interior;Instrument Switch;Panel Switch
+Components;Interior;Airbag System;Driver Airbag Module
+Components;Interior;Airbag System;Side Airbag
+Components;Interior;Airbag System;Airbag Module
+Components;Interior;Airbag System;Airbag
+Components;Interior;Airbag System;Airbag Parts
+Components;Interior;Airbag System;Knee Airbag Module
+Components;Interior;Airbag System;Airbag ECU
+Components;Interior;Airbag System;Passenger Airbag Module
+Components;Interior;Airbag System;Curtain Shield Airbag
+Components;Interior;Interior Trim;Door Trim
+Components;Interior;Interior Trim;Luggage/Trunk Trim
+Components;Interior;Interior Trim;Assist Grip
+Components;Interior;Interior Trim;Garnish
+Components;Interior;Interior Trim;Interior Trim Parts
+Components;Interior;Interior Trim;Floor Trim
+Components;Interior;Interior Trim;Sun Visor
+Components;Interior;Interior Trim;Steering Column Cover
+Components;Interior;Interior Trim;Knee Bolster
+Components;Interior;Interior Trim;Roof Module
+Components;Interior;Interior Trim;Armrest
+Components;Interior;Interior Trim;Inside Mirror
+Components;Interior;Interior Trim;Rear Parcel
+Components;Interior;Interior Trim;Roof Trim
+Components;Interior;Interior Trim;Dash Insulator
+Components;Interior;Interior Trim;Room Lamp
+Components;Interior;Interior Trim;Pillar Cover
+Components;Small/General Parts;Fastener / Connector;Clip
+Components;Small/General Parts;Fastener / Connector;Stud
+Components;Small/General Parts;Fastener / Connector;Joint
+Components;Small/General Parts;Fastener / Connector;Bolt
+Components;Small/General Parts;Fastener / Connector;Connector
+Components;Small/General Parts;Fastener / Connector;Fastener
+Components;Small/General Parts;Fastener / Connector;Clamp
+Components;Small/General Parts;Adhesive / Tape;Tape
+Components;Small/General Parts;Adhesive / Tape;Film
+Components;Small/General Parts;Adhesive / Tape;Adhesive
+Components;Small/General Parts;Bush / Seal;Bush
+Components;Small/General Parts;Bush / Seal;O Ring
+Components;Small/General Parts;Bush / Seal;Grommet
+Components;Small/General Parts;Bush / Seal;Gasket
+Components;Small/General Parts;Bush / Seal;Plug
+Components;Small/General Parts;Bush / Seal;Seal
+Components;Small/General Parts;Bush / Seal;Bellows
+Components;Small/General Parts;Bush / Seal;Insulator
+Components;Small/General Parts;Bush / Seal;Boots
+Components;Small/General Parts;Pipe / Hose;Duct
+Components;Small/General Parts;Pipe / Hose;Hose
+Components;Small/General Parts;Pipe / Hose;Pipe
+Components;Small/General Parts;General Commodity;Child Seat
+Components;Small/General Parts;General Commodity;Tool Set
+Components;Small/General Parts;General Commodity;Jack
+Components;Small/General Parts;Component Parts;Spring
+Components;Small/General Parts;Component Parts;Pin
+Components;Small/General Parts;Component Parts;Diaphragm
+Components;Small/General Parts;Component Parts;Shaft
+Components;Small/General Parts;Component Parts;Wire Mesh
+Components;Small/General Parts;Component Parts;Gear
+Components;Small/General Parts;Component Parts;Control Cable
+Components;Small/General Parts;Component Parts;Bearing
+Components;Small/General Parts;Component Parts;Valve
+Components;Small/General Parts;Fabric;Leather/Fabric
+Components;Small/General Parts;Fabric;Nonwoven Cloth
+Components;Engine;Gasoline Fuel Injection System;Throttle Body
+Components;Engine;Gasoline Fuel Injection System;Swirl Control Valve
+Components;Engine;Gasoline Fuel Injection System;Electronic Throttle Control System
+Components;Engine;Gasoline Fuel Injection System;Idle Speed Control Valve
+Components;Engine;Gasoline Fuel Injection System;Fuel Injector
+Components;Engine;Gasoline Fuel Injection System;Pressure Regulator
+Components;Engine;Gasoline Fuel Injection System;Fuel Rail
+Components;Engine;Gasoline Fuel Injection System;Air Flow Meter
+Components;Engine;Exhaust System;Exhaust Manifold
+Components;Engine;Exhaust System;Catalytic Converter
+Components;Engine;Exhaust System;EGR Pipe
+Components;Engine;Exhaust System;Exhaust Module
+Components;Engine;Exhaust System;Resonator
+Components;Engine;Exhaust System;EGR Cooler
+Components;Engine;Exhaust System;Muffler
+Components;Engine;Exhaust System;EGR Valve
+Components;Engine;Exhaust System;Exhaust Parts
+Components;Engine;Exhaust System;Exhaust Pipe
+Components;Engine;Exhaust System;Exhaust Gasket
+Components;Engine;Exhaust System;Air Pump
+Components;Engine;Engine Lubricating System;Oil Pump
+Components;Engine;Engine Lubricating System;Oil Seal
+Components;Engine;Engine Lubricating System;Oil Cooler
+Components;Engine;Engine Lubricating System;Oil Strainer
+Components;Engine;Engine Lubricating System;Engine Lubricating Parts
+Components;Engine;Engine Lubricating System;Oil Filter
+Components;Engine;Engine Lubricating System;Oil Level Gauge
+Components;Engine;Engine Parts;Engine Parts
+Components;Engine;Engine Parts;V Belt
+Components;Engine;Engine Parts;Engine Mounting
+Components;Engine;Air/Fuel Management;Intake Manifold
+Components;Engine;Air/Fuel Management;Air/Fuel Management Parts
+Components;Engine;Air/Fuel Management;Intake Manifold Module
+Components;Engine;Air/Fuel Management;Carburetor
+Components;Engine;Air/Fuel Management;Air Intake Module
+Components;Engine;Air/Fuel Management;Air Intake Resonator
+Components;Engine;Air/Fuel Management;Air Fuel Module
+Components;Engine;Air/Fuel Management;Air Cleaner
+Components;Engine;Fuel Handling And Evapo System;Fuel Filter
+Components;Engine;Fuel Handling And Evapo System;Canister
+Components;Engine;Fuel Handling And Evapo System;Fuel Pump
+Components;Engine;Fuel Handling And Evapo System;Fuel Evaporator
+Components;Engine;Fuel Handling And Evapo System;Fuel Pump Module
+Components;Engine;Fuel Handling And Evapo System;Fuel Hose
+Components;Engine;Fuel Handling And Evapo System;Fuel Handling And Evapo System Parts
+Components;Engine;Fuel Handling And Evapo System;Fuel Tube
+Components;Engine;Fuel Handling And Evapo System;CCP Solenoid
+Components;Engine;Turbo/Supercharger;Turbocharger
+Components;Engine;Turbo/Supercharger;Turbo/Supercharger Parts
+Components;Engine;Turbo/Supercharger;Super Charger Inter Cooler
+Components;Engine;Turbo/Supercharger;Supercharger
+Components;Engine;Engine Control System;Engine Control Parts
+Components;Engine;Engine Control System;OBD
+Components;Engine;Engine Control System;Engine ECU
+Components;Engine;Engine Structure;Cylinder Head
+Components;Engine;Engine Structure;Piston
+Components;Engine;Engine Structure;Crankshaft
+Components;Engine;Engine Structure;Crank Case
+Components;Engine;Engine Structure;Engine Pulley
+Components;Engine;Engine Structure;Engine Structure Parts
+Components;Engine;Engine Structure;Cylinder Liner
+Components;Engine;Engine Structure;Cylinder Head Bolt
+Components;Engine;Engine Structure;Connecting Rod
+Components;Engine;Engine Structure;Oil Pan
+Components;Engine;Engine Structure;Engine Front Cover
+Components;Engine;Engine Structure;Drive Plate
+Components;Engine;Engine Structure;Cylinder Block
+Components;Engine;Engine Structure;Cylinder Head Gasket
+Components;Engine;Engine Structure;Piston Pin
+Components;Engine;Engine Structure;Engine Bearing Cap
+Components;Engine;Engine Structure;Bed Plate
+Components;Engine;Engine Structure;Flywheel
+Components;Engine;Engine Structure;Cylinder Head Cover
+Components;Engine;Engine Structure;Piston Ring
+Components;Engine;Engine Structure;Balance Shaft
+Components;Engine;Engine Structure;Crank Case Ventilation System
+Components;Engine;Engine Structure;Torsional Damper
+Components;Engine;Other Fuel Systems;LPG System
+Components;Engine;Other Fuel Systems;CNG System
+Components;Engine;Ignition System;Distributor
+Components;Engine;Ignition System;Glow Plug
+Components;Engine;Ignition System;Ignition Module
+Components;Engine;Ignition System;Spark Plug
+Components;Engine;Ignition System;Ignition Parts
+Components;Engine;Ignition System;Igniter
+Components;Engine;Ignition System;Contact Breaker
+Components;Engine;Ignition System;Ignition Coil
+Components;Engine;Ignition System;High Tension Cable
+Components;Engine;Engine Electric System;Alternator
+Components;Engine;Engine Electric System;Fuse
+Components;Engine;Engine Electric System;Ignition Switch
+Components;Engine;Engine Electric System;Starter Motor
+Components;Engine;Engine Electric System;Battery Charger
+Components;Engine;Engine Electric System;IC Regulator
+Components;Engine;Engine Electric System;Battery Cable
+Components;Engine;Engine Electric System;Junction Box
+Components;Engine;Engine Electric System;Battery
+Components;Engine;Engine Electric System;Fuse Box
+Components;Engine;Engine Electric System;Engine Electric Parts
+Components;Engine;Diesel Injection System;Fuel Filter
+Components;Engine;Diesel Injection System;Feed Pump
+Components;Engine;Diesel Injection System;Common Rail
+Components;Engine;Diesel Injection System;Injector Nozzle
+Components;Engine;Diesel Injection System;Fuel Gallery
+Components;Engine;Diesel Injection System;Diesel Injector Pump
+Components;Engine;Diesel Injection System;High Pressure Pipe
+Components;Engine;Valvetrain;Exhaust Valve
+Components;Engine;Valvetrain;Rocker Shaft
+Components;Engine;Valvetrain;Push Rod
+Components;Engine;Valvetrain;Idler
+Components;Engine;Valvetrain;Intake Valve
+Components;Engine;Valvetrain;Rocker Arm
+Components;Engine;Valvetrain;Valve Guide
+Components;Engine;Valvetrain;Timing Gear
+Components;Engine;Valvetrain;Valve Retainer
+Components;Engine;Valvetrain;Valve Seat
+Components;Engine;Valvetrain;Timing Chain
+Components;Engine;Valvetrain;Valve Train Parts
+Components;Engine;Valvetrain;Valve Spring
+Components;Engine;Valvetrain;Valve Lifter
+Components;Engine;Valvetrain;Camshaft
+Components;Engine;Valvetrain;Chain Tensioner
+Components;Engine;Engine Cooling System;Radiator Mounting Rubber
+Components;Engine;Engine Cooling System;Cooling Fan Module
+Components;Engine;Engine Cooling System;Cooling Fan Coupling
+Components;Engine;Engine Cooling System;Radiator Hose Clip
+Components;Engine;Engine Cooling System;Thermostat
+Components;Engine;Engine Cooling System;Engine Cooling Module
+Components;Engine;Engine Cooling System;Cooling Fan
+Components;Engine;Engine Cooling System;Radiator Hose
+Components;Engine;Engine Cooling System;Engine Cooling Parts
+Components;Engine;Engine Cooling System;Radiator
+Components;Engine;Engine Cooling System;Cooling Fan Belt
+Components;Engine;Engine Cooling System;Radiator Reservoir Tank
+Components;Engine;Engine Cooling System;Radiator Mounting Bracket
+Components;Engine;Engine Cooling System;Cooling Fan Control Module
+Components;Engine;Engine Cooling System;Radiator Fan Shroud
+Components;Engine;Engine Cooling System;Water Pump
+Components;Body And Exterior;Front End Module;
+Components;Body And Exterior;Hood;Hood Hinges
+Components;Body And Exterior;Hood;Hood Lock
+Components;Body And Exterior;Hood;Hood Parts
+Components;Body And Exterior;Window Washer;Washer Tank
+Components;Body And Exterior;Window Washer;Window Washer Parts
+Components;Body And Exterior;Window Washer;Washer Nozzle
+Components;Body And Exterior;Window Washer;Washer Pump
+Components;Body And Exterior;Sunroof;T- Bar Roof
+Components;Body And Exterior;Sunroof;Detachable Roof
+Components;Body And Exterior;Sunroof;Sliding Roof
+Components;Body And Exterior;Sunroof;Sunroof Parts
+Components;Body And Exterior;Gas Spring;
+Components;Body And Exterior;Body Reinforcement/protector;Splash Guard
+Components;Body And Exterior;Body Reinforcement/protector;Engine Undercover
+Components;Body And Exterior;Body Reinforcement/protector;Body Insulator
+Components;Body And Exterior;Body Reinforcement/protector;Body Reinforcement And Protector Parts
+Components;Body And Exterior;Body Reinforcement/protector;Body Reinforcement Parts
+Components;Body And Exterior;Body Reinforcement/protector;Mud Guard
+Components;Body And Exterior;Door;Window Frame
+Components;Body And Exterior;Door;Door Module
+Components;Body And Exterior;Door;Inside Handle
+Components;Body And Exterior;Door;Door Closure
+Components;Body And Exterior;Door;Glass Run
+Components;Body And Exterior;Door;Outside Handle
+Components;Body And Exterior;Door;Door Lock Controller
+Components;Body And Exterior;Door;Door Check
+Components;Body And Exterior;Door;Power Window
+Components;Body And Exterior;Door;Door Lock Module
+Components;Body And Exterior;Door;Door Parts
+Components;Body And Exterior;Door;Door Hinge
+Components;Body And Exterior;Door;Window Regulator
+Components;Body And Exterior;Door;Door Lock
+Components;Body And Exterior;Door;Keyless Entry System
+Components;Body And Exterior;Wiper;Wiper Arm
+Components;Body And Exterior;Wiper;Wiper Parts
+Components;Body And Exterior;Wiper;Wiper Link
+Components;Body And Exterior;Wiper;Wiper Blade
+Components;Body And Exterior;Outside Mirror;Mirror Heater
+Components;Body And Exterior;Outside Mirror;Outside Mirror Parts
+Components;Body And Exterior;Weather Strip;
+Components;Body And Exterior;Frame;Body Panel/Frame Parts
+Components;Body And Exterior;Frame;Chassis/frame
+Components;Body And Exterior;Frame;Space Frame
+Components;Body And Exterior;Bumper;Bumper Beam
+Components;Body And Exterior;Bumper;Bumper Fascia
+Components;Body And Exterior;Bumper;Bumper Parts
+Components;Body And Exterior;Bumper;Bumper Energy Absorbing Parts
+Components;Body And Exterior;Window Glass;
+Components;Body And Exterior;Lamp;Headlamp
+Components;Body And Exterior;Lamp;Parking Lamp
+Components;Body And Exterior;Lamp;Reflex Reflector
+Components;Body And Exterior;Lamp;Turn Signal Lamp
+Components;Body And Exterior;Lamp;High Mounted Stop Lamp
+Components;Body And Exterior;Lamp;Lamp Parts
+Components;Body And Exterior;Lamp;Rear Combination Lamp
+Components;Body And Exterior;Lamp;Cornering Lamp
+Components;Body And Exterior;Lamp;Various Lamps
+Components;Body And Exterior;Lamp;Fog Lamp
+Components;Body And Exterior;Lamp;License Plate Lamp
+Components;Body And Exterior;Lamp;Hazard Lamp
+Components;Body And Exterior;Fuel Tank;Roll Over Valve
+Components;Body And Exterior;Fuel Tank;Filler Neck
+Components;Body And Exterior;Fuel Tank;Filler Pipe
+Components;Body And Exterior;Fuel Tank;Fuel Tank Parts
+Components;Body And Exterior;Fuel Tank;Fuel Tank Gauge
+Components;Body And Exterior;Key Set;
+Components;Body And Exterior;Body Panel;Door Panel Parts
+Components;Body And Exterior;Body Panel;Side Impact Beam
+Components;Body And Exterior;Body Panel;Engine Compartment Panel Parts
+Components;Body And Exterior;Body Panel;Body Side Panel Parts
+Components;Body And Exterior;Body Panel;Fender/Wheel House Panel Parts
+Components;Body And Exterior;Body Panel;Dash Panel Parts
+Components;Body And Exterior;Body Panel;Trunk Lid/Tail Gate Panel Parts
+Components;Body And Exterior;Body Panel;Hood Panel Parts
+Components;Body And Exterior;Body Panel;Truck Body Panel
+Components;Body And Exterior;Body Panel;Floor Panel Parts
+Components;Body And Exterior;Rear End Module;
+Components;Body And Exterior;Trunk Lid;Trunk Lid (Rear Gate) Closure
+Components;Body And Exterior;Trunk Lid;Trunk Lid Hinge
+Components;Body And Exterior;Trunk Lid;Trunk Lid Parts
+Components;Body And Exterior;Trunk Lid;Trunk Lid Lock
+Components;Body And Exterior;Trunk Lid;Tailgate Module
+Components;Body And Exterior;Trunk Lid;Trunk Opener
+Components;Body And Exterior;Exterior;Radiator Grille
+Components;Body And Exterior;Exterior;Spoiler
+Components;Body And Exterior;Exterior;Emblem
+Components;Body And Exterior;Exterior;Exterior Parts
+Components;Body And Exterior;Exterior;Molding
+Components;Body And Exterior;Exterior;Tire Carrier
+Components;Body And Exterior;Exterior;Exterior Decorative Parts
+Components;Body And Exterior;Exterior;Wheel Cap/Cover
+Components;Body And Exterior;Pedal;Clutch Pedal
+Components;Body And Exterior;Pedal;Brake Pedal
+Components;Body And Exterior;Pedal;Accelerator Pedal Module
+Components;Body And Exterior;Pedal;Pedal Parts
+Components;Body And Exterior;Horn;
+Components;Electronics/Electric Parts;Electric Connector;
+Components;Electronics/Electric Parts;Hidden switch;Inhibitor Switch
+Components;Electronics/Electric Parts;Hidden switch;Brake Lamp Switch
+Components;Electronics/Electric Parts;Hidden switch;Air Conditioner Pressure Switch
+Components;Electronics/Electric Parts;Hidden switch;Switches
+Components;Electronics/Electric Parts;Hidden switch;Thermo Switch
+Components;Electronics/Electric Parts;Hidden switch;Trunk Lid Switch
+Components;Electronics/Electric Parts;Hidden switch;Blower Switch
+Components;Electronics/Electric Parts;Hidden switch;Magnet Switch
+Components;Electronics/Electric Parts;Hidden switch;Oil Pressure Switch
+Components;Electronics/Electric Parts;Hidden switch;Hood Switch
+Components;Electronics/Electric Parts;Hidden switch;Horn Switch
+Components;Electronics/Electric Parts;Hidden switch;Air Conditioner Fan Switch
+Components;Electronics/Electric Parts;Hidden switch;Gear Selector Switch
+Components;Electronics/Electric Parts;Hidden switch;Reverse Lamp Switch
+Components;Electronics/Electric Parts;Hidden switch;Air Conditioner Temperature Switch
+Components;Electronics/Electric Parts;Electric Cable;
+Components;Electronics/Electric Parts;Motor;Throttle Body Motor
+Components;Electronics/Electric Parts;Motor;Water Pump Motor
+Components;Electronics/Electric Parts;Motor;ABS Motor
+Components;Electronics/Electric Parts;Motor;Washer Pump Motor
+Components;Electronics/Electric Parts;Motor;Door Mirror Motor
+Components;Electronics/Electric Parts;Motor;Odometer Stepping Motor
+Components;Electronics/Electric Parts;Motor;Air Purifier Motors
+Components;Electronics/Electric Parts;Motor;Radiator Fan Motor
+Components;Electronics/Electric Parts;Motor;Suspension Leveling Motor
+Components;Electronics/Electric Parts;Motor;Rear Wiper Motor
+Components;Electronics/Electric Parts;Motor;Outside Rearview Mirror Adjusting Motor
+Components;Electronics/Electric Parts;Motor;Lumber Support Adjuster Motor
+Components;Electronics/Electric Parts;Motor;Antenna Motor
+Components;Electronics/Electric Parts;Motor;Fuel Pump Motor
+Components;Electronics/Electric Parts;Motor;Steering Position Motor
+Components;Electronics/Electric Parts;Motor;Wiper Motor
+Components;Electronics/Electric Parts;Motor;Headlamp Cleaner Motor
+Components;Electronics/Electric Parts;Motor;Power Seat Motor
+Components;Electronics/Electric Parts;Motor;Heater Fan Motor
+Components;Electronics/Electric Parts;Motor;Idle Speed Control Motor
+Components;Electronics/Electric Parts;Motor;Power Steering Motor
+Components;Electronics/Electric Parts;Motor;Power Window Motor
+Components;Electronics/Electric Parts;Motor;Headlamp Aiming Control Motor
+Components;Electronics/Electric Parts;Motor;Sunroof Motor
+Components;Electronics/Electric Parts;Motor;Blower Fan Motor
+Components;Electronics/Electric Parts;Motor;Various Motor
+Components;Electronics/Electric Parts;Electronics Parts;Oscillation Element
+Components;Electronics/Electric Parts;Electronics Parts;Liquid Crystal
+Components;Electronics/Electric Parts;Electronics Parts;Optical Fiber
+Components;Electronics/Electric Parts;Electronics Parts;Electronics/Electric Parts
+Components;Electronics/Electric Parts;Electronics Parts;Capacitor
+Components;Electronics/Electric Parts;Electronics Parts;AD Converter
+Components;Electronics/Electric Parts;Electronics Parts;Trimmer
+Components;Electronics/Electric Parts;Electronics Parts;EL
+Components;Electronics/Electric Parts;Electronics Parts;Socket
+Components;Electronics/Electric Parts;Electronics Parts;PCB, PCB Mounted Products
+Components;Electronics/Electric Parts;Electronics Parts;Coil
+Components;Electronics/Electric Parts;Electronics Parts;Carbon Brush
+Components;Electronics/Electric Parts;Electronics Parts;VFD
+Components;Electronics/Electric Parts;Electronics Parts;Terminal
+Components;Electronics/Electric Parts;Electronics Parts;Transformer
+Components;Electronics/Electric Parts;Electronics Parts;Magnet
+Components;Electronics/Electric Parts;Electronics Parts;Piezoresistive Device
+Components;Electronics/Electric Parts;Electronics Parts;LCD
+Components;Electronics/Electric Parts;Electronics Parts;Bulb
+Components;Electronics/Electric Parts;Electronics Parts;Resistor
+Components;Electronics/Electric Parts;Electronics Parts;Breaker
+Components;Electronics/Electric Parts;Wire Harness;
+Components;Electronics/Electric Parts;Actuator;Actuators
+Components;Electronics/Electric Parts;Actuator;Solenoid/Solenoid Valve
+Components;Electronics/Electric Parts;Semiconductor;Diode
+Components;Electronics/Electric Parts;Semiconductor;Memory
+Components;Electronics/Electric Parts;Semiconductor;LSI
+Components;Electronics/Electric Parts;Semiconductor;CPU
+Components;Electronics/Electric Parts;Semiconductor;ASIC
+Components;Electronics/Electric Parts;Semiconductor;Transistor
+Components;Electronics/Electric Parts;Semiconductor;Various Semiconductors
+Components;Electronics/Electric Parts;Semiconductor;IC
+Components;Electronics/Electric Parts;Semiconductor;LED
+Components;Electronics/Electric Parts;Semiconductor;EEPROM
+Components;Electronics/Electric Parts;Relay;Flasher
+Components;Electronics/Electric Parts;Sensor;Throttle Position Sensor
+Components;Electronics/Electric Parts;Sensor;Engine Speed Sensor
+Components;Electronics/Electric Parts;Sensor;Radiator Water Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Speed Sensor
+Components;Electronics/Electric Parts;Sensor;Yaw Rate Sensor
+Components;Electronics/Electric Parts;Sensor;Airbag Sensor
+Components;Electronics/Electric Parts;Sensor;Room Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Sensors
+Components;Electronics/Electric Parts;Sensor;Exhaust Gas Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;NOX Sensor
+Components;Electronics/Electric Parts;Sensor;Crank Angle Sensor
+Components;Electronics/Electric Parts;Sensor;Vacuum Sensor
+Components;Electronics/Electric Parts;Sensor;Oil Pressure Sensor
+Components;Electronics/Electric Parts;Sensor;G Sensor
+Components;Electronics/Electric Parts;Sensor;Load Sensor
+Components;Electronics/Electric Parts;Sensor;Ambient Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;High Pressure Sensor
+Components;Electronics/Electric Parts;Sensor;Intake Gas Pressure Sensor
+Components;Electronics/Electric Parts;Sensor;Oxygen(O2)Sensor
+Components;Electronics/Electric Parts;Sensor;MAP(Manifold Absolute Pressure)sensor
+Components;Electronics/Electric Parts;Sensor;Cam Sensor
+Components;Electronics/Electric Parts;Sensor;Oil Condition Sensor
+Components;Electronics/Electric Parts;Sensor;Fuel Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Steering Angle Sensor
+Components;Electronics/Electric Parts;Sensor;Angle Sensor
+Components;Electronics/Electric Parts;Sensor;Air Conditioner Water Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Solar Sensor
+Components;Electronics/Electric Parts;Sensor;Intake Gas Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Air Flow Sensor
+Components;Electronics/Electric Parts;Sensor;Knock Sensor
+Components;Electronics/Electric Parts;Sensor;Accelerator Pedal Sensor
+Components;Electronics/Electric Parts;Sensor;Oil Level Sensor
+Components;Electronics/Electric Parts;Sensor;Fuel Level Sensor
+Components;Electronics/Electric Parts;Sensor;Wheel Speed Sensor (ABS Sensor)
+Components;Electronics/Electric Parts;Sensor;Height Sensor
+Components;Electronics/Electric Parts;Sensor;Air Conditioner Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Raindrop Sensor
+Components;Electronics/Electric Parts;Sensor;Engine Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;EGR Gas Temperature Sensor
+Components;Electronics/Electric Parts;Sensor;Combustion Pressure Sensor
+Components;Axle/Brake/Body Control;Brake;Brake Booster
+Components;Axle/Brake/Body Control;Brake;Brake Tube
+Components;Axle/Brake/Body Control;Brake;Disc Brake
+Components;Axle/Brake/Body Control;Brake;Brake Hose
+Components;Axle/Brake/Body Control;Brake;Drum Brake
+Components;Axle/Brake/Body Control;Brake;Brake Lining
+Components;Axle/Brake/Body Control;Brake;Brake Parts
+Components;Axle/Brake/Body Control;Brake;Brake Master Cylinder
+Components;Axle/Brake/Body Control;Brake;Brake Valve
+Components;Axle/Brake/Body Control;Vehicle Dynamic Control System;Vehicle Dynamic Control Systemn Parts
+Components;Axle/Brake/Body Control;Vehicle Dynamic Control System;Traction Control System
+Components;Axle/Brake/Body Control;Vehicle Dynamic Control System;ABS
+Components;Axle/Brake/Body Control;Axle;Front Axle Corner Module
+Components;Axle/Brake/Body Control;Axle;Axle Case
+Components;Axle/Brake/Body Control;Axle;Center Bearing
+Components;Axle/Brake/Body Control;Axle;Wheel Hub
+Components;Axle/Brake/Body Control;Axle;Front Axle Module
+Components;Axle/Brake/Body Control;Axle;Rear Axle
+Components;Axle/Brake/Body Control;Axle;Propeller Shaft
+Components;Axle/Brake/Body Control;Axle;Constant Velocity Joint
+Components;Axle/Brake/Body Control;Axle;Axle Module
+Components;Axle/Brake/Body Control;Axle;Front Axle
+Components;Axle/Brake/Body Control;Axle;Axle Shaft
+Components;Axle/Brake/Body Control;Axle;Cardan Joint
+Components;Axle/Brake/Body Control;Axle;Rear Axle Module
+Components;Axle/Brake/Body Control;Axle;Drive Shaft
+Components;Axle/Brake/Body Control;Axle;Universal Joint
+Components;Axle/Brake/Body Control;Axle;Axle Parts
+Components;Axle/Brake/Body Control;Sub Brake;Auxiliary Brake
+Components;Axle/Brake/Body Control;Sub Brake;Parking Brake
+Components;Axle/Brake/Body Control;Brake By Wire;
+Components;Axle/Brake/Body Control;Air Brake;
+Components;Driving Support & Security;Driving Support Systems;Adaptive Cruise Control System
+Components;Driving Support & Security;Driving Support Systems;Corner Detecting And Ranging System
+Components;Driving Support & Security;Driving Support Systems;Headlamp Aiming Control
+Components;Driving Support & Security;Driving Support Systems;Other Driving Support Systems
+Components;Driving Support & Security;Driving Support Systems;Tire Pressure Monitoring System
+Components;Driving Support & Security;Driving Support Systems;ETC
+Components;Driving Support & Security;Driving Support Systems;Auto Cruise Control System
+Components;Driving Support & Security;Driving Support Systems;Rear View Monitor
+Components;Driving Support & Security;Telematics, Car Navigation;Telematics Communication System
+Components;Driving Support & Security;Telematics, Car Navigation;Car Phone
+Components;Driving Support & Security;Telematics, Car Navigation;Information System
+Components;Driving Support & Security;Telematics, Car Navigation;GPS
+Components;Driving Support & Security;Telematics, Car Navigation;Vehicle Emergency System
+Components;Driving Support & Security;Telematics, Car Navigation;Car Navigation
+Components;Driving Support & Security;Telematics, Car Navigation;Voice Recognition System
+Components;Driving Support & Security;Entertainment, Audio;Antenna
+Components;Driving Support & Security;Entertainment, Audio;Television Set
+Components;Driving Support & Security;Entertainment, Audio;Audio
+Components;Driving Support & Security;Entertainment, Audio;Radio
+Components;Driving Support & Security;Security System;Immobilizer
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Hydraulic Stamping Press
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Material Feeder
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Fine Blanking Press (FB Press)
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Servo Press
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Stamping Machine's Peripheral Equipment
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Machine Stamping Press
+Production Systems;Processing Machine;Stamping Machine and Peripheral Equipment;Material Conveyor
+Production Systems;Processing Machine;Resin Molding Machine;Multi Color/Material Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Blow Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Powder Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Machines
+Production Systems;Processing Machine;Resin Molding Machine;Injection Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Extrusion Machine
+Production Systems;Processing Machine;Resin Molding Machine;Thermosetting Resin Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Resin Molding Auxiliary Equipments
+Production Systems;Processing Machine;Resin Molding Machine;Modeling Machine
+Production Systems;Processing Machine;Resin Molding Machine;Vacuum Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Thermal Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;Foam Molding Machine
+Production Systems;Processing Machine;Resin Molding Machine;MIM Molding Machine
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Extrusion (Drawing Process)
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Forging Peripheral Equipment
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Cold Forging Machine
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Tempering Furnace
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Upsetter (Crushing Process)
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Trim Pierce Machine
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Forging Stamping Press
+Production Systems;Processing Machine;Forging Machine and Peripheral Equipment;Heater
+Production Systems;Processing Machine;Other Machines;Pressure Welding Machine
+Production Systems;Processing Machine;Other Machines;Chip Disposal Device
+Production Systems;Processing Machine;Other Machines;Rapid Prototyping Machine
+Production Systems;Processing Machine;Other Machines;Bonding Machine
+Production Systems;Processing Machine;Other Machines;Assembling Machine
+Production Systems;Processing Machine;Other Machines;Machines
+Production Systems;Processing Machine;Other Machines;Other Machines
+Production Systems;Processing Machine;Other Machines;Heat Treatment Machine
+Production Systems;Processing Machine;Other Machines;Small Parts Processing Machine
+Production Systems;Processing Machine;Electrical Discharge Machine;Wiring Discharge Machine
+Production Systems;Processing Machine;Electrical Discharge Machine;Discharge Machine Peripheral Equipment
+Production Systems;Processing Machine;Electrical Discharge Machine;Carving Discharge Machine
+Production Systems;Processing Machine;Die-Casting Machine and Peripheral Equipment;PDC Machine
+Production Systems;Processing Machine;Die-Casting Machine and Peripheral Equipment;Equipments
+Production Systems;Processing Machine;Die-Casting Machine and Peripheral Equipment;Die-Casting Peripheral Equipment
+Production Systems;Processing Machine;Die-Casting Machine and Peripheral Equipment;Melting Furnace
+Production Systems;Processing Machine;Die-Casting Machine and Peripheral Equipment;Holding Furnace
+Production Systems;Processing Machine;Laser Beam Machine;Laser Oscillator
+Production Systems;Processing Machine;Laser Beam Machine;Laser Bonding Machine
+Production Systems;Processing Machine;Laser Beam Machine;Laser Welding Machine
+Production Systems;Processing Machine;Laser Beam Machine;Laser Cutting Machine
+Production Systems;Processing Machine;Laser Beam Machine;Other Laser Processing Machine
+Production Systems;Processing Machine;Cutting Machine;Lathe
+Production Systems;Processing Machine;Cutting Machine;Screw Machine
+Production Systems;Processing Machine;Cutting Machine;Broaching Machine
+Production Systems;Processing Machine;Cutting Machine;Milling Center
+Production Systems;Processing Machine;Cutting Machine;Multi-Axis Control Processing Machine
+Production Systems;Processing Machine;Cutting Machine;Various Special Purpose Machines
+Production Systems;Processing Machine;Cutting Machine;Drilling Machine
+Production Systems;Processing Machine;Cutting Machine;Gear Cutting Machine
+Production Systems;Processing Machine;Cutting Machine;Turning Center
+Production Systems;Processing Machine;Cutting Machine;Shearing Machine
+Production Systems;Processing Machine;Cutting Machine;Transfer Machine
+Production Systems;Processing Machine;Cutting Machine;Chamfer
+Production Systems;Processing Machine;Cutting Machine;Milling Machine
+Production Systems;Processing Machine;Cutting Machine;Rolling Machine
+Production Systems;Processing Machine;Cutting Machine;Machining Center
+Production Systems;Processing Machine;Cutting Machine;Grinding Center
+Production Systems;Processing Machine;Cutting Machine;FMS (Flexible Machining System)
+Production Systems;Processing Machine;Cutting Machine;Debarring
+Production Systems;Processing Machine;Cutting Machine;Boring Machine
+Production Systems;Processing Machine;Cutting Machine;Grinder
+Production Systems;Processing Machine;Cutting Machine;Groove Cutting Machine
+Production Systems;Processing Machine;Cutting Machine;Drilling Center
+Production Systems;Processing Machine;Cutting Machine;Compound Processing Machine
+Production Systems;Processing Machine;Cutting Machine;Finishing Machine
+Production Systems;Processing Machine;Casting Machine & Peripheral Equipment;Holding Furnace
+Production Systems;Processing Machine;Casting Machine & Peripheral Equipment;Melting Furnace
+Production Systems;Processing Machine;Casting Machine & Peripheral Equipment;Sand Processing Machine
+Production Systems;Processing Machine;Casting Machine & Peripheral Equipment;Dismantling Machine
+Production Systems;Processing Machine;Casting Machine & Peripheral Equipment;Molding Machine
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Electron Beam Welding Machine
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Facilities
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Resistance Welding Machine
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Welding Peripheral Equipment
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Plasma Welding Machine
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Plasma Oscillator
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Arc Welding Machine
+Production Systems;Processing Machine;Welding Machine & Peripheral Equipment;Welding Power Source
+Production Systems;Processing Machine;Forming & Bending Machines;Tube Bending
+Production Systems;Processing Machine;Forming & Bending Machines;Tube Forming
+Production Systems;Processing Machine;Forming & Bending Machines;Hydraulic Forming
+Production Systems;Processing Machine;Forming & Bending Machines;Wire Forming
+Production Systems;Processing Machine;Forming & Bending Machines;Panel Bending
+Production Systems;Processing Machine;Resin Processing Machine;Resin Shearing Machine
+Production Systems;Processing Machine;Resin Processing Machine;Bonding Machine
+Production Systems;Processing Machine;Resin Processing Machine;Welding Machine
+Production Systems;Processing Machine;Deformation Processing Machine;Other Deformation Processing Machines
+Production Systems;Processing Machine;Deformation Processing Machine;Drawing processing Machine
+Production Systems;Processing Machine;Deformation Processing Machine;Rolling processing Machine
+Production Systems;Processing Machine;Deformation Processing Machine;Swaging Machine
+Production Systems;Production Supplemental Materials;Solvents/Lubricants;Glue/Adhesive
+Production Systems;Production Supplemental Materials;Solvents/Lubricants;Film Lubricant
+Production Systems;Production Supplemental Materials;Solvents/Lubricants;Cutting Fluid Coolant
+Production Systems;Production Supplemental Materials;Chemicals;Various Chemicals
+Production Systems;Production Supplemental Materials;Packaging Distribution Materials;Material Logistics
+Production Systems;Production Supplemental Materials;Packaging Distribution Materials;Finished Product Packaging Materials
+Production Systems;Production Supplemental Materials;Oil Materials;Stamping Press Oil
+Production Systems;Production Supplemental Materials;Oil Materials;Drive Oil
+Production Systems;Production Supplemental Materials;Oil Materials;Lubricant
+Production Systems;Production Supplemental Materials;Production Container;Inter-Plant Control Container
+Production Systems;Production Supplemental Materials;Production Container;In Process Control Container
+Production Systems;Production Supplemental Materials;Production Container;Returnable Dunnage
+Production Systems;Production Supplemental Materials;Detergent;Detergent
+Production Systems;Production Supplemental Materials;Detergent;Dryer
+Production Systems;Production Supplemental Materials;Detergent;Rust Inhibitor
+Production Systems;Production Support System;Data Tracking;Handy Terminal (Bar Code Reading)
+Production Systems;Production Support System;Data Tracking;Production Parts Follow (Chasing) System
+Production Systems;Production Support System;Process Control, Monitoring System;Status Display Panel
+Production Systems;Production Support System;Process Control, Monitoring System;Production Project Management System
+Production Systems;Production Support System;Production Control Support System;Production Scheduling Support System
+Production Systems;Production Support System;Production Control Support System;BOM?Bill of Material?
+Production Systems;Production Support System;Production Control Support System;Inventory Check Support System
+Production Systems;Production Support System;Virtual Manufacturing;Process Capability Sensitivity Analysis System
+Production Systems;Production Support System;Virtual Manufacturing;Pre Interference Check in the Monitor
+Production Systems;Production Support System;Bar Coding System;Bar Coding System
+Production Systems;Production Support System;Bar Coding System;Product Control System
+Production Systems;Facility/Equipment;Parts Feeder;Parts Classification/Sorting Equipment
+Production Systems;Facility/Equipment;Parts Feeder;Parts Feeder
+Production Systems;Facility/Equipment;Marking Equipment;Transcription Equipment
+Production Systems;Facility/Equipment;Marking Equipment;Inkjet Marking Equipment
+Production Systems;Facility/Equipment;Marking Equipment;Printing Machine
+Production Systems;Facility/Equipment;Marking Equipment;Marking Equipment
+Production Systems;Facility/Equipment;Environmental Equipment;Air Pollution Protection Equipment
+Production Systems;Facility/Equipment;Environmental Equipment;Industrial waste Disposal Device
+Production Systems;Facility/Equipment;Environmental Equipment;Instruments
+Production Systems;Facility/Equipment;Environmental Equipment;Dust Collector
+Production Systems;Facility/Equipment;Environmental Equipment;Water Pollution Protection Equipment
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Shooter
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;AGV(Automatic Guided Vehicle) Transportation syste
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Unload Device
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Conveyor
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Picking System
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Loading
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Lifting System
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Palletize
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Conveyor Junction Device
+Production Systems;Facility/Equipment;Automatic Transport, Transfer Machine;Depalletisation
+Production Systems;Facility/Equipment;Other Systems, Equipments;Dispenser
+Production Systems;Facility/Equipment;Other Systems, Equipments;Discharge Device
+Production Systems;Facility/Equipment;Other Systems, Equipments;Other Systems, Equipments
+Production Systems;Facility/Equipment;Power Source Device Equipment;Uninterruptible Power Supply (UPS)
+Production Systems;Facility/Equipment;Power Source Device Equipment;Battery
+Production Systems;Facility/Equipment;Power Source Device Equipment;Various Oscillator
+Production Systems;Facility/Equipment;Power Source Device Equipment;Inverter
+Production Systems;Facility/Equipment;Power Source Device Equipment;Switching Power Supply
+Production Systems;Facility/Equipment;Power Source Device Equipment;Other Power Supply Devices
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Installation Related Equipment
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Other Electronics Parts Assembly Equipment
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Electronics Parts Installation Equipment
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Circuit Board Manufacturing Equipment
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Printed Wiring Board Circuit Forming Equipment
+Production Systems;Facility/Equipment;Electronics Parts Assembly, Installation Equipment;Semi-conductor Installation Equipment
+Production Systems;Facility/Equipment;Safety Device;Emergency Stop Device
+Production Systems;Facility/Equipment;Safety Device;Safety Fence
+Production Systems;Facility/Equipment;Safety Device;Door Switch
+Production Systems;Facility/Equipment;Safety Device;Photoelectric Stop Device
+Production Systems;Facility/Equipment;Inspection Equipments;Gauge
+Production Systems;Facility/Equipment;Inspection Equipments;X-Ray Inspection Machine
+Production Systems;Facility/Equipment;Inspection Equipments;Calibration Equipments
+Production Systems;Facility/Equipment;Inspection Equipments;Leak Tester
+Production Systems;Facility/Equipment;Inspection Equipments;Vision Inspection (Vision System)
+Production Systems;Facility/Equipment;Inspection Equipments;Magnetic Flow Detection Equipment
+Production Systems;Facility/Equipment;Inspection Equipments;Other Inspection Machine
+Production Systems;Facility/Equipment;Inspection Equipments;Ultrasonic Machine
+Production Systems;Facility/Equipment;Inspection Equipments;Sample Inspection Machine
+Production Systems;Facility/Equipment;Image Processing Apparatus;Oscillograph
+Production Systems;Facility/Equipment;Image Processing Apparatus;Data Display System
+Production Systems;Facility/Equipment;Image Processing Apparatus;Industrial Camera
+Production Systems;Facility/Equipment;Image Processing Apparatus;Pattern Recognition System
+Production Systems;Facility/Equipment;Cleaning, Contamination Control Equipment;Cleaning Facility
+Production Systems;Facility/Equipment;Cleaning, Contamination Control Equipment;Cleaning Equipment
+Production Systems;Facility/Equipment;Utility;Compressor
+Production Systems;Facility/Equipment;Utility;Boiler
+Production Systems;Facility/Equipment;Utility;Blower
+Production Systems;Facility/Equipment;Utility;Fan
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Durability Testing Machine
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Thermal Testing Machine
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Corrosion Testing Machine
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Dynamic Strength Testing Machine
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Static Strength Testing Machine
+Production Systems;Facility/Equipment;Testing Machines and Peripheral Equipment;Other Testing Machines
+Production Systems;Facility/Equipment;Packaging Machine;Labeling Machine
+Production Systems;Facility/Equipment;Packaging Machine;Packing System
+Production Systems;Facility/Equipment;Packaging Machine;Code Reader
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Painting Equipment
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Surface Finish
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Surface Grind
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Vapor Deposition Equipment
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Treatment Equipment
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Plating Equipment
+Production Systems;Facility/Equipment;Surface Treatment Equipment;Other Surface Improvement
+Production Systems;Facility/Equipment;Thermal Related Equipment;Heating Device
+Production Systems;Facility/Equipment;Thermal Related Equipment;Heat Accumulator
+Production Systems;Facility/Equipment;Thermal Related Equipment;Heat Pump
+Production Systems;Facility/Equipment;Thermal Related Equipment;Refrigeration Equipment
+Production Systems;Facility/Equipment;Thermal Related Equipment;Various Heat Exchanger
+Production Systems;Facility/Equipment;Thermal Related Equipment;Dryer
+Production Systems;Facility/Equipment;Analytical Instruments;Material Composition Analysis Equipment
+Production Systems;Facility/Equipment;Analytical Instruments;Flaw Meter
+Production Systems;Facility/Equipment;Analytical Instruments;Microscope
+Production Systems;Facility/Equipment;Analytical Instruments;Hardness Scale
+Production Systems;Facility/Equipment;Analytical Instruments;Thickness Gauge
+Production Systems;Facility/Equipment;Analytical Instruments;Other Measurement Equipments
+Production Systems;Facility/Equipment;Analytical Instruments;Surface Measuring Machine
+Production Systems;Facility/Equipment;Analytical Instruments;Thermometer
+Production Systems;Facility/Equipment;Analytical Instruments;Measurement and Peripheral Equipment
+Production Systems;Facility/Equipment;Analytical Instruments;CMM (Coordinate Measuring Machine)
+Production Systems;Facility/Equipment;Analytical Instruments;Pressure Gauge
+Production Systems;Facility/Equipment;Analytical Instruments;Scope
+Production Systems;Facility/Equipment;Inventory Control System;Automatic Warehouse
+Production Systems;Facility/Equipment;Inventory Control System;Parts Storage Device
+Production Systems;Facility/Equipment;Inventory Control System;FIFO (First-In-First Out) System
+Production Systems;Machine Element;Switch;Thermal Switch
+Production Systems;Machine Element;Switch;Limit Switch
+Production Systems;Machine Element;Switch;Other Switches
+Production Systems;Machine Element;Switch;Photoelectric Switch
+Production Systems;Machine Element;Actuator, Cylinder;Cylinder
+Production Systems;Machine Element;Actuator, Cylinder;Actuator
+Production Systems;Machine Element;Actuator, Cylinder;Manipulator
+Production Systems;Machine Element;Retainer & Bearing;Spindle
+Production Systems;Machine Element;Retainer & Bearing;Thrust Bearing
+Production Systems;Machine Element;Retainer & Bearing;Clutch
+Production Systems;Machine Element;Retainer & Bearing;Main Shaft
+Production Systems;Machine Element;Retainer & Bearing;Roller Bearing
+Production Systems;Machine Element;Retainer & Bearing;Bearing Retainer
+Production Systems;Machine Element;Retainer & Bearing;Ball Bearing
+Production Systems;Machine Element;Retainer & Bearing;Roller Guide Bearing
+Production Systems;Machine Element;Retainer & Bearing;Coupling
+Production Systems;Machine Element;Retainer & Bearing;Bearing Unit
+Production Systems;Machine Element;Retainer & Bearing;Needle Bearing
+Production Systems;Machine Element;Retainer & Bearing;Brake
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Piping Parts
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Solenoid Valve
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Pneumatic Equipment
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Vacuum Equipments
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Hydraulic Equipment
+Production Systems;Machine Element;Hydraulic/Pneumatic Equipment;Fluid Supply Facility
+Production Systems;Machine Element;Motor;D D Motor
+Production Systems;Machine Element;Motor;Servo Motor
+Production Systems;Machine Element;Motor;Linear Motor
+Production Systems;Machine Element;Motor;Spindle Motor
+Production Systems;Machine Element;Motor;Induction Motor
+Production Systems;Machine Element;Motor;Stepping Motor
+Production Systems;Machine Element;Motor;Reduction Gear
+Production Systems;Machine Element;Motor;DC Motor
+Production Systems;Machine Element;Motor;USM
+Production Systems;Machine Element;Controlling Devices;NC (Numerical Controlling Machine)
+Production Systems;Machine Element;Controlling Devices;Wiring Harness
+Production Systems;Machine Element;Controlling Devices;Connectors
+Production Systems;Machine Element;Controlling Devices;Programmable Controllers
+Production Systems;Machine Element;Controlling Devices;Controlling Machine Parts
+Production Systems;Machine Element;Other Mechanical Elements;Other Mechanical Element Parts
+Production Systems;Machine Element;Other Mechanical Elements;Pump
+Production Systems;Machine Element;Other Mechanical Elements;Spring
+Production Systems;Machine Element;Industrial Robot;Painting Robot
+Production Systems;Machine Element;Industrial Robot;Transporting Robot
+Production Systems;Machine Element;Industrial Robot;Other Industrial Robots
+Production Systems;Machine Element;Industrial Robot;Welding Robot
+Production Systems;Machine Element;Industrial Robot;Location Robot
+Production Systems;Machine Element;Industrial Robot;Cartesian Coordinate Robot
+Production Systems;Machine Element;Industrial Robot;Assembling Robot
+Production Systems;Machine Element;Industrial Robot;SCARA (Selective Compliance Assembly Robot Arm)
+Production Systems;Machine Element;Industrial Robot;Transferring Robot
+Production Systems;Machine Element;Industrial Robot;Articulated Robot
+Production Systems;Machine Element;Industrial Robot;Industrial Robots' Peripheral Equipment
+Production Systems;Machine Element;Sensors;Encoder
+Production Systems;Machine Element;Sensors;Pressure Sensor
+Production Systems;Machine Element;Sensors;Optical Sensor
+Production Systems;Machine Element;Sensors;Noise Sensor
+Production Systems;Machine Element;Sensors;Rotation Switch
+Production Systems;Machine Element;Sensors;Proximity Sensor
+Production Systems;Machine Element;Sensors;Vision Sensor
+Production Systems;Machine Element;Sensors;Ultrasonic Sensor
+Production Systems;Machine Element;Sensors;Sensing Device
+Production Systems;Machine Element;Sensors;Thermal Sensor
+Production Systems;Machine Element;Sensors;Area Sensor
+Production Systems;Machine Element;Sensors;Beam (Photoelectric) Sensor
+Production Systems;Machine Element;Sensors;Other Sensors
+Production Systems;Machine Element;Sensors;Speed Sensor
+Production Systems;Machine Element;Sensors;Force Sensor
+Production Systems;Machine Element;Sensors;Acceleration Sensor
+Production Systems;Machine Element;Sensors;Piezoelectric Element
+Production Systems;Machine Element;Sliders, Linear Bearing;Slide Guide
+Production Systems;Machine Element;Sliders, Linear Bearing;Ball Screw Actuator
+Production Systems;Machine Element;Sliders, Linear Bearing;Ball Spline Bushing (Linear Motion/Ball Type)
+Production Systems;Machine Element;Sliders, Linear Bearing;Ball Screw
+Production Systems;Machine Element;Sliders, Linear Bearing;LM Guide (Linear Motion/Rail Type)
+Production Systems;Machine Element;Sliders, Linear Bearing;Cross Table
+Production Systems;Machine Element;Sliders, Linear Bearing;XY Table
+Raw Materials;Others;Papers;
+Raw Materials;Others;Carbon Materials;
+Raw Materials;Others;Materials (Others);
+Raw Materials;Others;Casein;
+Raw Materials;Others;Glass;
+Raw Materials;Others;Gelatin;
+Raw Materials;Resin;Elastomer;Thermosetting Elastomer
+Raw Materials;Resin;Elastomer;Synthetic Rubber
+Raw Materials;Resin;Elastomer;Natural Rubber
+Raw Materials;Resin;Elastomer;Thermoplastic Elastomer
+Raw Materials;Resin;Elastomer;Thermosetting Resin Elastomer
+Raw Materials;Resin;Super Engineering Plastic;Polyphenylene Sulfide Resin (PPS)
+Raw Materials;Resin;Super Engineering Plastic;Polyimide Resin (PI)
+Raw Materials;Resin;Super Engineering Plastic;Polyethersulfone Resin (PES)
+Raw Materials;Resin;Super Engineering Plastic;Polyetherimide Resin (PEI)
+Raw Materials;Resin;Super Engineering Plastic;Polyetheretherketone Resin (PEEK)
+Raw Materials;Resin;Super Engineering Plastic;Polysulfone Resin (PSF)
+Raw Materials;Resin;Super Engineering Plastic;Polyamidoimide Resin (PAI)
+Raw Materials;Resin;Super Engineering Plastic;Fluorocarbon Resin (FR)
+Raw Materials;Resin;Super Engineering Plastic;Polyarylate Resin (PAR)
+Raw Materials;Resin;Super Engineering Plastic;Liquid Crystal Polymer Resin (LCP)
+Raw Materials;Resin;Engineering Plastic;Polyamide Resin(PA)
+Raw Materials;Resin;Engineering Plastic;Polybutylene Terephthalate Resin (PBT)
+Raw Materials;Resin;Engineering Plastic;Modified Polyphenylene Ether Resin (M-PPE)
+Raw Materials;Resin;Engineering Plastic;Polycarbonate Resin (PC)
+Raw Materials;Resin;Engineering Plastic;Ultra High Molecular Weight Polyethylene Resin (UH
+Raw Materials;Resin;Engineering Plastic;Polyacetal Resin (POM)
+Raw Materials;Resin;Engineering Plastic;GE Enforced Polyethelene Terephthalate Resin (GF-
+Raw Materials;Resin;Commodity Plastic;Polystyrene (PS)
+Raw Materials;Resin;Commodity Plastic;Polybutadiene Resin (PBD)
+Raw Materials;Resin;Commodity Plastic;Polypropylene (PP)
+Raw Materials;Resin;Commodity Plastic;Acrylic Resin(PMMA)
+Raw Materials;Resin;Commodity Plastic;Polyvinyl Dene Resin (PVD)
+Raw Materials;Resin;Commodity Plastic;Polyvinyl Chloride (PVC)
+Raw Materials;Resin;Commodity Plastic;AS Resin
+Raw Materials;Resin;Commodity Plastic;Polyvinyl Alcohol Resin (PVA)
+Raw Materials;Resin;Commodity Plastic;Polyethylene(PE)
+Raw Materials;Resin;Commodity Plastic;ABS Resin
+Raw Materials;Resin;Commodity Plastic;Polyethylene Terephthalate Resin (PET)
+Raw Materials;Resin;Resins (Others);
+Raw Materials;Metal;Steel;
+Raw Materials;Metal;Copper;
+Raw Materials;Metal;Metals (Others);
+Raw Materials;Metal;Aluminum;
+Raw Materials;Metal;Rare Metal;
+Raw Materials;Metal;Special Steel;
+Raw Materials;Metal;Lead;
+Raw Materials;Metal;Stainless;
+Raw Materials;Metal;Zinc;
+Development Solutions;CAD / CAM;CAD;
+Development Solutions;CAD / CAM;3D Measuring Instrument;
+Development Solutions;CAD / CAM;Viewer;
+Development Solutions;CAD / CAM;3D Rapid Prototyping (RP);
+Development Solutions;CAD / CAM;Data Conversion;
+Development Solutions;CAD / CAM;Plotter, Printer. Scanner;
+Development Solutions;CAD / CAM;CAM;
+Development Solutions;CAD / CAM;Design Support Simulator;
+Development Solutions;R&D / Outsourcing;Contract work for R&D;
+Development Solutions;R&D / Outsourcing;Contract work for Data preparation;
+Development Solutions;R&D / Outsourcing;Contract work for Pilot build;
+Development Solutions;R&D / Outsourcing;Contract work for Testing, Analysis, Evaluation, I;
+Development Solutions;Pilot Support;Prototype S/W & Materials;
+Development Solutions;Pilot Support;Prototype Equipment;
+Development Solutions;On Vehicle Software / Driver;Firmware / Middleware;
+Development Solutions;On Vehicle Software / Driver;Device Driver;
+Development Solutions;On Vehicle Software / Driver;Development Tool;
+Development Solutions;On Vehicle Software / Driver;Assembled OS / Platform;
+Development Solutions;On Vehicle Software / Driver;Debug Tool;
+Development Solutions;On Vehicle Software / Driver;Software Language;
+Development Solutions;PLM/PDM;Drawing & Document Control;
+Development Solutions;PLM/PDM;PDM;
+Development Solutions;PLM/PDM;PLM;
+Development Solutions;Instrument / Tester;Noise, Vibration, EMC Measuring Instruments;
+Development Solutions;Instrument / Tester;Test Equipment;
+Development Solutions;Instrument / Tester;Analysis / Measurement Instruments;
+Development Solutions;Instrument / Tester;Inspection Equipment / System;
+Development Solutions;Instrument / Tester;Industrial Sensors;
+Development Solutions;CAE;Structural Analysis;
+Development Solutions;CAE;Resin Flow Analysis;
+Development Solutions;CAE;Pre/Post;
+Development Solutions;CAE;CFD (Computational Fluid Dynamics);
+Development Solutions;CAE;Fatigue Analysis;
+Development Solutions;CAE;Mechanism Analysis;
+Development Solutions;CAE;Noise & Vibration Analysis;
+Development Solutions;CAE;Collision Analysis;
+Development Solutions;CAE;Electromagnetic Analysis;
+Development Solutions;CAE;Other Analysis (Analysis Tools);
+Development Solutions;EMC Noise/Heat Counter-Measure;Heat Counter-Measure;
+Development Solutions;EMC Noise/Heat Counter-Measure;EMC/Noise Counter-Measure;
+Product Control;Logistics/Location;Logistics;
+Product Control;Logistics/Location;Location;
+Product Control;SCM/ERP/Manufacturing Support;SCM;
+Product Control;SCM/ERP/Manufacturing Support;Process Control System;
+Product Control;SCM/ERP/Manufacturing Support;Schedule;
+Product Control;SCM/ERP/Manufacturing Support;Manufacturing Contract (EMS etc.);
+Product Control;SCM/ERP/Manufacturing Support;Production/Inventory Control System;
+Product Control;SCM/ERP/Manufacturing Support;Production Simulator;
+Product Control;SCM/ERP/Manufacturing Support;ERP;
+Product Control;SCM/ERP/Manufacturing Support;SCADA/HMI;
+Services;Other Services;Logistics Solution;
+Services;Other Services;Technology Translation;
+Services;Other Services;Support to obtain the Certificates;
+Services;IT Infrastructure Maintenance;Security;
+Services;IT Infrastructure Maintenance;Hardware;
+Services;IT Infrastructure Maintenance;Groupware;
+Services;IT Infrastructure Maintenance;Network;
+Services;IT Infrastructure Maintenance;Middleware;
+Services;IT Infrastructure Maintenance;Data Storage;
