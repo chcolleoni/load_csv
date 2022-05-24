@@ -1,10 +1,15 @@
 server:
   port: 8080
   error:
-    include-message:
+    include-message: never
 spring:
   application:
     name: ms-load-csv
+  rabbitmq:
+    addresses: amqps://ntebmayb:${RABBITMQ_ADDR}@gull.rmq.cloudamqp.com/ntebmayb
+    queue: ms.load-csv
+    exchangename: amq.direct
+    queuecarparts: carparts
   batch:
     initialize-schema: ALWAYS
     job:
